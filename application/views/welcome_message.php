@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Activity Escol</title>
+	<title>Activity escol</title>
 
 	<style type="text/css">
 

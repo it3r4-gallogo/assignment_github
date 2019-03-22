@@ -1,1 +1,1 @@
-console.log("Escol Activity")
+console.log("escol Activity")
