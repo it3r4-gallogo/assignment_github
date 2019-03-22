@@ -1,1 +1,1 @@
-console.log("Gallogo Activity")
+console.log("Escol Activity")
